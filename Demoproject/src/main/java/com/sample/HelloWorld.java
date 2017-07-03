@@ -7,7 +7,7 @@ import com.aoperations.Multiply;
  */
 public class HelloWorld {
     public static void main(String [] args){
-        callLogging();
+        callMultiply();
     }
     public static void callLogging(){
         System.out.println("Hello Logging!!");
