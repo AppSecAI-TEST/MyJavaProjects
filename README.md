@@ -1,1 +1,1 @@
-# JavaProjects
+# Mostly Demo JavaProjects
